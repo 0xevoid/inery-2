@@ -57,7 +57,7 @@ cline push action inery.token issue '["YourAccountName", "Supply CurrencyCode", 
 **Example**
 👇👇👇👇👇
 ```
-cline push action inery.token issue '["mr.pendol", "10000.0000 CPI", "Free Coffee"]' -p mr.pendol
+cline push action inery.token issue '["mr.pendol", "10000.0000 MRPDL", "Free Coffee"]' -p mr.pendol
 ```
 - Send Token, Minimum 10 transactions to 10 people
 ```
