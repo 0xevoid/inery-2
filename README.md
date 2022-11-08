@@ -42,7 +42,7 @@ cline set abi Your_Wallet_Name token.abi
 
 - Create New Token
 ```
-cline push action inery.token create '["Your_Account_Name", "Supply CurrencyCode"], "token description/memo"' -p Your_Account_Name
+cline push action inery.token create '["Your_Account_Name", "Supply CurrencyCode"], "token description"' -p Your_Account_Name
 ```
 **Example**
 👇👇👇👇👇
