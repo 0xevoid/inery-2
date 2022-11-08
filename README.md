@@ -66,18 +66,18 @@ cline push action inery.token transfer '["Your_Account_Name", "Token_Receiver", 
 **Example**
 👇👇👇👇👇
 ```
-cline push action inery.token transfer '["YourAccountName", "inery", "1.0000 MRPDL", "My Hot Coffee For You"]' -p YourAccountName
-cline push action inery.token transfer '["YourAccountName", "mr.pendol", "1.0000 MRPDL", "My Hot Coffee For You"]' -p YourAccountName
-cline push action inery.token transfer '["YourAccountName", ".kodomo", "1.0000 MRPDL", "My Hot Coffee For You"]' -p YourAccountName
-cline push action inery.token transfer '["YourAccountName", "bigpool", "1.0000 MRPDL", "My Hot Coffee For You"]' -p YourAccountName
-cline push action inery.token transfer '["YourAccountName", ".asfi", "1.0000 MRPDL", "My Hot Coffee For You"]' -p YourAccountName
-cline push action inery.token transfer '["YourAccountName", "1atau2", "1.0000 MRPDL", "My Hot Coffee For You"]' -p YourAccountName
-cline push action inery.token transfer '["YourAccountName", "1phdchan", "1.0000 MRPDL", "My Hot Coffee For You"]' -p YourAccountName
-cline push action inery.token transfer '["YourAccountName", "abc1", "1.0000 MRPDL", "My Hot Coffee For You"]' -p YourAccountName
-cline push action inery.token transfer '["YourAccountName", "abdulyunti", "1.0000 MRPDL", "My Hot Coffee For You"]' -p YourAccountName
-cline push action inery.token transfer '["YourAccountName", "abuyaskur", "1.0000 MRPDL", "My Hot Coffee For You"]' -p YourAccountName
-cline push action inery.token transfer '["YourAccountName", "adacansu", "1.0000 MRPDL", "My Hot Coffee For You"]' -p YourAccountName
-cline push action inery.token transfer '["YourAccountName", "agungun", "1.0000 MRPDL", "My Hot Coffee For You"]' -p YourAccountName
+cline push action inery.token transfer '["Your_Account_Name", "inery", "1.0000 MRPDL", "My Hot Coffee For You"]' -p Your_Account_Name
+cline push action inery.token transfer '["Your_Account_Name", "mr.pendol", "1.0000 MRPDL", "My Hot Coffee For You"]' -p Your_Account_Name
+cline push action inery.token transfer '["Your_Account_Name", ".kodomo", "1.0000 MRPDL", "My Hot Coffee For You"]' -p Your_Account_Name
+cline push action inery.token transfer '["Your_Account_Name", "bigpool", "1.0000 MRPDL", "My Hot Coffee For You"]' -p Your_Account_Name
+cline push action inery.token transfer '["Your_Account_Name", ".asfi", "1.0000 MRPDL", "My Hot Coffee For You"]' -p Your_Account_Name
+cline push action inery.token transfer '["Your_Account_Name", "1atau2", "1.0000 MRPDL", "My Hot Coffee For You"]' -p Your_Account_Name
+cline push action inery.token transfer '["Your_Account_Name", "1phdchan", "1.0000 MRPDL", "My Hot Coffee For You"]' -p Your_Account_Name
+cline push action inery.token transfer '["Your_Account_Name", "abc1", "1.0000 MRPDL", "My Hot Coffee For You"]' -p Your_Account_Name
+cline push action inery.token transfer '["Your_Account_Name", "abdulyunti", "1.0000 MRPDL", "My Hot Coffee For You"]' -p Your_Account_Name
+cline push action inery.token transfer '["Your_Account_Name", "abuyaskur", "1.0000 MRPDL", "My Hot Coffee For You"]' -p Your_Account_Name
+cline push action inery.token transfer '["Your_Account_Name", "adacansu", "1.0000 MRPDL", "My Hot Coffee For You"]' -p Your_Account_Name
+cline push action inery.token transfer '["Your_Account_Name", "agungun", "1.0000 MRPDL", "My Hot Coffee For You"]' -p Your_Account_Name
 ```
 ## ✅ Done
 
